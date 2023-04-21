@@ -10,5 +10,5 @@ Hello! My name is Justin Arakaki, a full-stack developer. Was a mechanical engin
 
 ### 📫 Let's Connect!
 
-- [Personal Website](https://justin-arakaki.github.io/portfolio/)
+- [Personal Website](https://justarakaki.dev/)
 - [My LinkedIn](https://www.linkedin.com/in/jrarakaki/)
