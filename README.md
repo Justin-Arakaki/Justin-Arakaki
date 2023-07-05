@@ -2,7 +2,7 @@
 
 - Currently Studying - AWS, Django, GraphQL
 - Stack - Node.js, React, Typescript, Express
-- Tools - PostgreSQL, npm, Vite, Webpack, Lodash
+- Tools - PostgreSQL, MySQL, Redis, Jest, Vite, Material-ui
 
 ### 🛠 About Me
 
