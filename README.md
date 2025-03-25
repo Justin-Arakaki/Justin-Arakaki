@@ -6,7 +6,7 @@
 
 ### 🛠 About Me
 
-Hello! My name is Justin Arakaki, a full-stack developer. Was a mechanical engineer and hobby coder, now a software developer and hobby engineer! I'm happy as long as I'm learning something.
+Hello! My name is Justin Arakaki, a mechanical engineer and full-stack developer.
 
 ### 📫 Let's Connect!
 
